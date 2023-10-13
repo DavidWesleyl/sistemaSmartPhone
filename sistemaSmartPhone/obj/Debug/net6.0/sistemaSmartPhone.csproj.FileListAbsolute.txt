@@ -1,0 +1,14 @@
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\bin\Debug\net6.0\sistemaSmartPhone.exe
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\bin\Debug\net6.0\sistemaSmartPhone.deps.json
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\bin\Debug\net6.0\sistemaSmartPhone.runtimeconfig.json
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\bin\Debug\net6.0\sistemaSmartPhone.dll
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\bin\Debug\net6.0\sistemaSmartPhone.pdb
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.AssemblyInfoInputs.cache
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.AssemblyInfo.cs
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.csproj.CoreCompileInputs.cache
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.dll
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\refint\sistemaSmartPhone.dll
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.pdb
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\sistemaSmartPhone.genruntimeconfig.cache
+C:\dev\sistemaSmartPhone\sistemaSmartPhone\obj\Debug\net6.0\ref\sistemaSmartPhone.dll
